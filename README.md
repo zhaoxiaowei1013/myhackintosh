@@ -1,8 +1,15 @@
-# Asrock Phantom Gaming ITX / 9900K / MSI v1 RX580
+<!--
+ * @Description: 
+ * @Author: zhaoxiaowei
+ * @Github: https://github.com/zhaoxiaowei1013
+ * @Date: 2019-09-18 08:13:56
+ * @LastEditors: zhaoxiaowei
+ * @LastEditTime: 2019-10-03 08:25:28
+ -->
+# Asrock Phantom Gaming ITX / 9700K / ASUS RX580
 * Version - 10.14.4
 
 ##### Table of Contents
-* [Images](#images)
 * [PC Parts](#parts)
 * [BIOS Settings](#bios)
 * [What Works](#what-works)
@@ -10,34 +17,17 @@
 * [Installation](#installation)
 * [Motivation](#motivation)
 
-<a name="images"></a>
-
-## Images
-
-![Desktop Screenshot](https://github.com/kcunanan/Jared-PC/blob/master/images/desktop-neofetch-screenshot.png?raw=true)
-
-<div align="center">
-  <img src="https://github.com/kcunanan/Jared-PC/blob/master/images/geekbench-score.png?raw=true">
-</div>
-
-![PC Case - Side Closed](https://github.com/kcunanan/Jared-PC/blob/master/images/closed-side-pc.jpg?raw=true)
-![PC Case - Front](https://github.com/kcunanan/Jared-PC/blob/master/images/front-pc.jpg?raw=true)
-![PC Case - Back](https://github.com/kcunanan/Jared-PC/blob/master/images/back-pc.jpg?raw=true)
-![PC Case - Open Side Left](https://github.com/kcunanan/Jared-PC/blob/master/images/open-pc-side-left.jpg?raw=true)
-![PC Case - Open Side Right](https://github.com/kcunanan/Jared-PC/blob/master/images/open-side-pc-right.jpg?raw=true)
-
 <a name="parts"></a>
 
 ## Parts
-* Intel Core i9-9900k
+* Intel Core i7-9700k
 * ASRock Z390 Phantom Gaming-ITX/AC
-* AMD Sapphire RX570
-* 16gb (2 x 8gb) Corsair Vengeance LPX DDR4 3200MHz
-* Noctua NH-DL9
-* Samsung 970 EVO 500gb - NVMe PCIe M.2.
-* WD Blue 3D NAND 1TB PC SSD
-* Broadcom BCM94352Z (Dell DW1560)
-* DA2 Streacom Mini-ITX Case
+* Asus DUAL-RX580-O8G
+* 64gb  Asgard Loki W2 32G DDR4 2666 * 2
+* Cryorig C7
+* WD Black 3D NAND 500GB NVMe PCIe M.2
+* Broadcom BCM94360CS2 
+* Louqe GHOST S1
 
 <a name="bios"></a>
 
